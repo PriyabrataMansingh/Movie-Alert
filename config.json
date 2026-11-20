@@ -2,8 +2,8 @@
   "detector": "venue_date",
   "movie": "Avengers: Doomsday",
   "requested_date": "20261217",
-  "venue_code": "CNED",
-  "venue_label": "Cinepolis: Nexus Esplanade, Bhubaneswar",
+  "venue_code": "MPDB",
+  "venue_label": "Maharaja: Bhubaneswar",
   "url_template": "https://in.bookmyshow.com/movies/bhub/avengers-doomsday/buytickets/ET00526315/{date}",
   "min_references": 10
 }
